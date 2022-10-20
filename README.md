@@ -37,5 +37,6 @@ DOI={10.3389/frobt.2020.00113},
 ISSN={2296-9144}, 
 }
 
-
+## Requirements: software
+'Python 2.7' 'Tensorflow 1.7.0' 'Keras 2.1.6'
 
