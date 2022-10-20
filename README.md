@@ -20,10 +20,10 @@ The proposed matching model employs neural network techniques for classifying a 
 ![image](https://user-images.githubusercontent.com/107185323/196982908-aabe5cc1-49d2-48f2-99a5-ab822209889d.png)
 
 The repository includes:
-..* Source code of LearnNet.
-..* Training code 
-..* Pre-trained weights 
-..* Jupyter notebooks
+* Source code of LearnNet.
+* Training code 
+* Pre-trained weights 
+* Jupyter notebooks
 
 ### Citing
 @ARTICLE{10.3389/frobt.2020.00113,
