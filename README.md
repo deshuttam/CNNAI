@@ -46,9 +46,11 @@ ISSN={2296-9144},
 Download models and put into `Models` folder.
 * CoarseNet: [Googledrive](https://drive.google.com/file/d/1bU3T-XQRlKy6C77e5eD-DOD_QlNlAIjR/view?usp=sharing)
 * FineNet: [Googledrive](https://drive.google.com/file/d/1rQw6hs-3hv_7WqJQ8ZYhJhi4laa-9qbY/view?usp=sharing)
-* CNNAI: [Googledrive](https://drive.google.com/file/d/1e-fvLhwvw8Sg1uVkM6oBT6QncWZgloap/view?usp=sharing)
+* CNNAI FVC 2002: [Googledrive](https://drive.google.com/file/d/18XtX_U3IDTwsRCZS-QF65XG3zN_E_-sN/view?usp=sharing)
+* CNNAI FVC 2004: [Googledrive](https://drive.google.com/file/d/1TIuIuuuIenjGg3adIWrDsomi9o-JZfAS/view?usp=sharing)
+* CNNAI NIST SD27: [Googledrive](https://drive.google.com/file/d/1S5SOOpc671vRey-Z9Xgj9aH2GScHCbSx/view?usp=sharing)
 
 ## Testing Procedure
-* Based on which fingerprint to test, copy respective cnai_weight.h5 file present in FVC 2002, FVC 2004 or NIST SD27 in Models folder alongwith CoarseNet.h5 and FineNet.h5 files.
+* Based on which fingerprint to test, copy respective cnai_weight.h5 file present in CNNAI FVC 2002, CNNAI FVC 2004 or CNNAI NIST SD27 in Models folder alongwith CoarseNet.h5 and FineNet.h5 files.
 * Save images to be tested in `/Dataset/CoarseNet_test/` folder.
 * To perform minutiae extraction and matching, Run `main_work.py` present in CoarseNet folder to observe the matching results. 
