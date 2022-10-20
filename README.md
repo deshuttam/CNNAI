@@ -42,3 +42,8 @@ ISSN={2296-9144},
 
 ## Installation 
 `conda install cv2, numpy, scipy, matplotlib, pydot, graphviz`
+
+Download models and put into `Models` folder.
+* CoarseNet: https://drive.google.com/file/d/1bU3T-XQRlKy6C77e5eD-DOD_QlNlAIjR/view?usp=sharing
+* FineNet:
+* CNNAI:https://drive.google.com/file/d/1e-fvLhwvw8Sg1uVkM6oBT6QncWZgloap/view?usp=sharing
