@@ -9,7 +9,7 @@ For a CNN based accurate fingerprint segmentation, minutiae extraction, and matc
 ## Introduction
 We present a local minutia-based Convolution Neural Network (CNN) based matching model called “Combination of Nearest Neighbor Arrangement Indexing (CNNAI).” This model makes use of a set of “n” local nearest minutiae neighbor features and generates rotation-scale invariant feature vectors. 
 
-## CNNAI ALGORITHM
+### CNNAI ALGORITHM
 For latent ﬁngerprint matching, we use the nearest combination of minutiae points around a central minutia. We obtain the discriminative invariants based on the minutiae structures and store them on the hash-table for matching. To make the matcher robust against scale, rotation, and missing minutiae, we deﬁne the triangular minutiae structure. 
 ![image](https://user-images.githubusercontent.com/107185323/196980826-1c24fa65-dfe8-47af-a7ed-d2ec2c80f1db.png)
 
