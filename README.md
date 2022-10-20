@@ -53,5 +53,5 @@ Download models and put into `Models` folder.
 ## Testing Procedure
 * Based on which fingerprint to test, copy respective cnai_weight.h5 file present in CNNAI FVC 2002, CNNAI FVC 2004 or CNNAI NIST SD27 in Models folder alongwith CoarseNet.h5 and FineNet.h5 files.
 * Save images to be tested in `/Dataset/CoarseNet_test/` folder.
-* To perform minutiae extraction and matching, Run `main_work.py` present in CoarseNet folder to observe the matching results. 
+* To perform minutiae extraction and matching, Run `main_work.py` present in CoarseNet folder to observe the matching results. Or You can run the notebook `main_work_NIST.ipynb` present in CoarseNet folder.
 * Observe output in `output_CoarseNet` folder.
