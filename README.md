@@ -19,7 +19,24 @@ The arrangement vectors of query ﬁngerprints are compared against the stored v
 The proposed matching model employs neural network techniques for classifying a query latent ﬁngerprint from a class of a given set of pre-trained classes depending upon the arrangement vectors. One-dimensional convolutional layer is used in designing the matching model. 
 ![image](https://user-images.githubusercontent.com/107185323/196982908-aabe5cc1-49d2-48f2-99a5-ab822209889d.png)
 
+The repository includes:
 
+Source code of LearnNet.
+Training code 
+Pre-trained weights 
+Jupyter notebooks
+
+### Citing
+@ARTICLE{10.3389/frobt.2020.00113,
+AUTHOR={Deshpande, Uttam U. and Malemath, V. S. and Patil, Shivanand M. and Chaugule, Sushma V.},    
+TITLE={CNNAI: A Convolution Neural Network-Based Latent Fingerprint Matching Using the Combination of Nearest Neighbor Arrangement Indexing},      
+JOURNAL={Frontiers in Robotics and AI},      
+VOLUME={7},           
+YEAR={2020},        
+URL={https://www.frontiersin.org/articles/10.3389/frobt.2020.00113},      	
+DOI={10.3389/frobt.2020.00113},      	
+ISSN={2296-9144}, 
+}
 
 
 
