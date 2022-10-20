@@ -38,5 +38,7 @@ ISSN={2296-9144},
 }
 
 ## Requirements: software
-`Python 2.7`, 'Tensorflow 1.7.0', 'Keras 2.1.6'
+`Python 2.7` `Tensorflow 1.7.0` `Keras 2.1.6`
 
+## Installation 
+`conda install cv2, numpy, scipy, matplotlib, pydot, graphviz`
