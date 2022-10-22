@@ -32,7 +32,7 @@ TITLE={CNNAI: A Convolution Neural Network-Based Latent Fingerprint Matching Usi
 JOURNAL={Frontiers in Robotics and AI},      
 VOLUME={7},           
 YEAR={2020},        
-URL={https://www.frontiersin.org/articles/10.3389/frobt.2020.00113},      	
+URL={ https://www.frontiersin.org/articles/10.3389/frobt.2020.00113 },      	
 DOI={10.3389/frobt.2020.00113},      	
 ISSN={2296-9144}, 
 }
