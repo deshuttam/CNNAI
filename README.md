@@ -4,7 +4,7 @@ By Uttam U. Deshpande et al.
 
 
 
-For a CNN based accurate fingerprint segmentation, minutiae extraction, and matching refer to this paper: https://www.frontiersin.org/articles/10.3389/frobt.2020.00113/full
+For a CNN based accurate fingerprint segmentation, minutiae extraction, and matching refer to this paper [CNNAI](https://www.frontiersin.org/articles/10.3389/frobt.2020.00113/full)
 
 ## Introduction
 We present a local minutia-based Convolution Neural Network (CNN) based matching model called “Combination of Nearest Neighbor Arrangement Indexing (CNNAI).” This model makes use of a set of “n” local nearest minutiae neighbor features and generates rotation-scale invariant feature vectors. 
